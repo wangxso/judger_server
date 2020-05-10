@@ -1,0 +1,201 @@
+NOTICE [2020-05-10 12:04:25] [logger.h:92] log_open
+FATAL [2020-05-10 12:04:25] [core.cpp:803] You must run this program as root.
+TRACE [2020-05-10 12:04:25] [core.cpp:55] The final result is System Error 0 0 
+TRACE [2020-05-10 12:04:25] [logger.h:100] log_close
+NOTICE [2020-05-10 12:09:21] [logger.h:92] log_open
+TRACE [2020-05-10 12:09:21] [core.cpp:388]
+ [compiler] Start: gcc -o ./test//a.out ./test/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2020-05-10 12:09:21] [core.cpp:413] compiler finished
+TRACE [2020-05-10 12:09:21] [core.cpp:417] compile succeeded.
+TRACE [2020-05-10 12:09:21] [core.cpp:460] Start Judging.
+TRACE [2020-05-10 12:09:21] [core.cpp:161] Start to redirect the IO.
+TRACE [2020-05-10 12:09:21] [core.cpp:170] redirect io is OK.
+TRACE [2020-05-10 04:09:21] [logger.h:100] log_close
+TRACE [2020-05-10 12:09:21] [core.cpp:502] OK, normal quit. All is good.
+TRACE [2020-05-10 12:09:21] [core.cpp:55] The final result is Accepted 0 364 
+TRACE [2020-05-10 12:09:21] [logger.h:100] log_close
+NOTICE [2020-05-10 12:15:26] [logger.h:92] log_open
+TRACE [2020-05-10 12:15:26] [core.cpp:388]
+ [compiler] Start: gcc -o ./test//a.out ./test/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2020-05-10 12:15:26] [core.cpp:413] compiler finished
+TRACE [2020-05-10 12:15:26] [core.cpp:417] compile succeeded.
+TRACE [2020-05-10 12:15:26] [core.cpp:460] Start Judging.
+TRACE [2020-05-10 12:15:26] [core.cpp:161] Start to redirect the IO.
+TRACE [2020-05-10 12:15:26] [core.cpp:170] redirect io is OK.
+TRACE [2020-05-10 04:15:26] [logger.h:100] log_close
+TRACE [2020-05-10 12:15:26] [core.cpp:502] OK, normal quit. All is good.
+TRACE [2020-05-10 12:15:26] [core.cpp:55] The final result is Accepted 1 364 
+TRACE [2020-05-10 12:15:26] [logger.h:100] log_close
+NOTICE [2020-05-10 12:15:44] [logger.h:92] log_open
+TRACE [2020-05-10 12:15:44] [core.cpp:388]
+ [compiler] Start: gcc -o ./test//a.out ./test/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2020-05-10 12:15:44] [core.cpp:413] compiler finished
+TRACE [2020-05-10 12:15:44] [core.cpp:417] compile succeeded.
+TRACE [2020-05-10 12:15:44] [core.cpp:460] Start Judging.
+TRACE [2020-05-10 12:15:44] [core.cpp:161] Start to redirect the IO.
+TRACE [2020-05-10 12:15:44] [core.cpp:170] redirect io is OK.
+TRACE [2020-05-10 04:15:44] [logger.h:100] log_close
+TRACE [2020-05-10 12:15:44] [core.cpp:502] OK, normal quit. All is good.
+TRACE [2020-05-10 12:15:44] [core.cpp:55] The final result is Accepted 0 360 
+TRACE [2020-05-10 12:15:44] [logger.h:100] log_close
+NOTICE [2020-05-10 12:17:11] [logger.h:92] log_open
+TRACE [2020-05-10 12:17:11] [core.cpp:388]
+ [compiler] Start: gcc -o ./test//a.out ./test/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2020-05-10 12:17:11] [core.cpp:413] compiler finished
+TRACE [2020-05-10 12:17:11] [core.cpp:417] compile succeeded.
+TRACE [2020-05-10 12:17:11] [core.cpp:460] Start Judging.
+TRACE [2020-05-10 12:17:11] [core.cpp:161] Start to redirect the IO.
+TRACE [2020-05-10 12:17:11] [core.cpp:170] redirect io is OK.
+TRACE [2020-05-10 04:17:11] [logger.h:100] log_close
+TRACE [2020-05-10 12:17:11] [core.cpp:502] OK, normal quit. All is good.
+TRACE [2020-05-10 12:17:11] [core.cpp:55] The final result is Accepted 1 364 
+TRACE [2020-05-10 12:17:11] [logger.h:100] log_close
+NOTICE [2020-05-10 12:17:30] [logger.h:92] log_open
+TRACE [2020-05-10 12:17:30] [core.cpp:388]
+ [compiler] Start: gcc -o ./test//a.out ./test/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2020-05-10 12:17:30] [core.cpp:413] compiler finished
+TRACE [2020-05-10 12:17:30] [core.cpp:417] compile succeeded.
+TRACE [2020-05-10 12:17:30] [core.cpp:460] Start Judging.
+TRACE [2020-05-10 12:17:30] [core.cpp:161] Start to redirect the IO.
+TRACE [2020-05-10 12:17:30] [core.cpp:170] redirect io is OK.
+TRACE [2020-05-10 04:17:30] [logger.h:100] log_close
+TRACE [2020-05-10 12:17:30] [core.cpp:502] OK, normal quit. All is good.
+TRACE [2020-05-10 12:17:30] [core.cpp:55] The final result is Accepted 0 364 
+TRACE [2020-05-10 12:17:30] [logger.h:100] log_close
+NOTICE [2020-05-10 12:23:40] [logger.h:92] log_open
+WARNING [2020-05-10 12:23:40] [core.cpp:380]
+ [compiler] error to freopen in compiler: stdout((nil)) stderr((nil))
+TRACE [2020-05-10 12:23:40] [core.cpp:413] compiler finished
+WARNING [2020-05-10 12:23:40] [core.cpp:437] Unknown signal when compile the source code.
+NOTICE [2020-05-10 12:24:13] [logger.h:92] log_open
+TRACE [2020-05-10 12:24:13] [core.cpp:388]
+ [compiler] Start: gcc -o ./test/a.out ./test/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2020-05-10 12:24:13] [core.cpp:413] compiler finished
+TRACE [2020-05-10 12:24:13] [core.cpp:417] compile succeeded.
+TRACE [2020-05-10 12:24:13] [core.cpp:460] Start Judging.
+TRACE [2020-05-10 12:24:13] [core.cpp:161] Start to redirect the IO.
+TRACE [2020-05-10 12:24:13] [core.cpp:170] redirect io is OK.
+TRACE [2020-05-10 04:24:13] [logger.h:100] log_close
+TRACE [2020-05-10 12:24:13] [core.cpp:502] OK, normal quit. All is good.
+TRACE [2020-05-10 12:24:13] [core.cpp:55] The final result is Accepted 1 356 
+TRACE [2020-05-10 12:24:13] [logger.h:100] log_close
+NOTICE [2020-05-10 12:24:36] [logger.h:92] log_open
+TRACE [2020-05-10 12:24:36] [core.cpp:388]
+ [compiler] Start: gcc -o ./test/a.out ./test/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2020-05-10 12:24:36] [core.cpp:413] compiler finished
+TRACE [2020-05-10 12:24:36] [core.cpp:417] compile succeeded.
+TRACE [2020-05-10 12:24:36] [core.cpp:460] Start Judging.
+TRACE [2020-05-10 12:24:36] [core.cpp:161] Start to redirect the IO.
+TRACE [2020-05-10 12:24:36] [core.cpp:170] redirect io is OK.
+TRACE [2020-05-10 04:24:36] [logger.h:100] log_close
+TRACE [2020-05-10 12:24:36] [core.cpp:502] OK, normal quit. All is good.
+TRACE [2020-05-10 12:24:36] [core.cpp:55] The final result is Accepted 0 356 
+TRACE [2020-05-10 12:24:36] [logger.h:100] log_close
+NOTICE [2020-05-10 12:25:07] [logger.h:92] log_open
+TRACE [2020-05-10 12:25:07] [core.cpp:388]
+ [compiler] Start: gcc -o ./test/a.out ./test/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2020-05-10 12:25:07] [core.cpp:413] compiler finished
+TRACE [2020-05-10 12:25:07] [core.cpp:417] compile succeeded.
+TRACE [2020-05-10 12:25:07] [core.cpp:460] Start Judging.
+TRACE [2020-05-10 12:25:07] [core.cpp:161] Start to redirect the IO.
+TRACE [2020-05-10 12:25:07] [core.cpp:170] redirect io is OK.
+TRACE [2020-05-10 04:25:07] [logger.h:100] log_close
+TRACE [2020-05-10 12:25:07] [core.cpp:502] OK, normal quit. All is good.
+TRACE [2020-05-10 12:25:07] [core.cpp:55] The final result is Accepted 0 360 
+TRACE [2020-05-10 12:25:07] [logger.h:100] log_close
+NOTICE [2020-05-10 12:25:13] [logger.h:92] log_open
+TRACE [2020-05-10 12:25:13] [core.cpp:388]
+ [compiler] Start: gcc -o ./test/a.out ./test/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2020-05-10 12:25:13] [core.cpp:413] compiler finished
+TRACE [2020-05-10 12:25:13] [core.cpp:417] compile succeeded.
+TRACE [2020-05-10 12:25:13] [core.cpp:460] Start Judging.
+TRACE [2020-05-10 12:25:13] [core.cpp:161] Start to redirect the IO.
+TRACE [2020-05-10 12:25:13] [core.cpp:170] redirect io is OK.
+TRACE [2020-05-10 04:25:13] [logger.h:100] log_close
+TRACE [2020-05-10 12:25:13] [core.cpp:502] OK, normal quit. All is good.
+TRACE [2020-05-10 12:25:13] [core.cpp:55] The final result is Accepted 0 356 
+TRACE [2020-05-10 12:25:13] [logger.h:100] log_close
+NOTICE [2020-05-10 12:25:14] [logger.h:92] log_open
+TRACE [2020-05-10 12:25:14] [core.cpp:388]
+ [compiler] Start: gcc -o ./test/a.out ./test/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2020-05-10 12:25:14] [core.cpp:413] compiler finished
+TRACE [2020-05-10 12:25:14] [core.cpp:417] compile succeeded.
+TRACE [2020-05-10 12:25:14] [core.cpp:460] Start Judging.
+TRACE [2020-05-10 12:25:14] [core.cpp:161] Start to redirect the IO.
+TRACE [2020-05-10 12:25:14] [core.cpp:170] redirect io is OK.
+TRACE [2020-05-10 04:25:14] [logger.h:100] log_close
+TRACE [2020-05-10 12:25:14] [core.cpp:502] OK, normal quit. All is good.
+TRACE [2020-05-10 12:25:14] [core.cpp:55] The final result is Accepted 1 360 
+TRACE [2020-05-10 12:25:14] [logger.h:100] log_close
+NOTICE [2020-05-10 12:27:01] [logger.h:92] log_open
+TRACE [2020-05-10 12:27:01] [core.cpp:388]
+ [compiler] Start: gcc -o ./test/a.out ./test/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2020-05-10 12:27:01] [core.cpp:413] compiler finished
+TRACE [2020-05-10 12:27:01] [core.cpp:417] compile succeeded.
+TRACE [2020-05-10 12:27:01] [core.cpp:460] Start Judging.
+TRACE [2020-05-10 12:27:01] [core.cpp:161] Start to redirect the IO.
+TRACE [2020-05-10 12:27:01] [core.cpp:170] redirect io is OK.
+TRACE [2020-05-10 04:27:01] [logger.h:100] log_close
+TRACE [2020-05-10 12:27:01] [core.cpp:502] OK, normal quit. All is good.
+TRACE [2020-05-10 12:27:01] [core.cpp:55] The final result is Accepted 0 360 
+TRACE [2020-05-10 12:27:01] [logger.h:100] log_close
+NOTICE [2020-05-10 12:29:57] [logger.h:92] log_open
+TRACE [2020-05-10 12:29:57] [core.cpp:388]
+ [compiler] Start: gcc -o ./test/a.out ./test/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2020-05-10 12:29:58] [core.cpp:413] compiler finished
+TRACE [2020-05-10 12:29:58] [core.cpp:417] compile succeeded.
+TRACE [2020-05-10 12:29:58] [core.cpp:460] Start Judging.
+TRACE [2020-05-10 12:29:58] [core.cpp:161] Start to redirect the IO.
+TRACE [2020-05-10 12:29:58] [core.cpp:170] redirect io is OK.
+TRACE [2020-05-10 04:29:58] [logger.h:100] log_close
+TRACE [2020-05-10 12:29:58] [core.cpp:502] OK, normal quit. All is good.
+TRACE [2020-05-10 12:29:58] [core.cpp:55] The final result is Accepted 0 360 
+TRACE [2020-05-10 12:29:58] [logger.h:100] log_close
+NOTICE [2020-05-10 12:33:26] [logger.h:92] log_open
+TRACE [2020-05-10 12:33:26] [core.cpp:388]
+ [compiler] Start: gcc -o ./test/a.out ./test/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2020-05-10 12:33:26] [core.cpp:413] compiler finished
+TRACE [2020-05-10 12:33:26] [core.cpp:417] compile succeeded.
+TRACE [2020-05-10 12:33:26] [core.cpp:460] Start Judging.
+TRACE [2020-05-10 12:33:26] [core.cpp:161] Start to redirect the IO.
+TRACE [2020-05-10 12:33:26] [core.cpp:170] redirect io is OK.
+TRACE [2020-05-10 04:33:26] [logger.h:100] log_close
+TRACE [2020-05-10 12:33:26] [core.cpp:502] OK, normal quit. All is good.
+TRACE [2020-05-10 12:33:26] [core.cpp:55] The final result is Accepted 0 348 
+TRACE [2020-05-10 12:33:26] [logger.h:100] log_close
+NOTICE [2020-05-10 13:26:53] [logger.h:92] log_open
+TRACE [2020-05-10 13:26:53] [core.cpp:388]
+ [compiler] Start: gcc -o ./test/a.out ./test/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2020-05-10 13:26:53] [core.cpp:413] compiler finished
+TRACE [2020-05-10 13:26:53] [core.cpp:417] compile succeeded.
+TRACE [2020-05-10 13:26:53] [core.cpp:460] Start Judging.
+TRACE [2020-05-10 13:26:53] [core.cpp:161] Start to redirect the IO.
+TRACE [2020-05-10 13:26:53] [core.cpp:170] redirect io is OK.
+TRACE [2020-05-10 05:26:53] [logger.h:100] log_close
+TRACE [2020-05-10 13:26:53] [core.cpp:502] OK, normal quit. All is good.
+TRACE [2020-05-10 13:26:53] [core.cpp:55] The final result is Accepted 0 356 
+TRACE [2020-05-10 13:26:53] [logger.h:100] log_close
+NOTICE [2020-05-10 13:27:20] [logger.h:92] log_open
+TRACE [2020-05-10 13:27:20] [core.cpp:388]
+ [compiler] Start: gcc -o ./test/a.out ./test/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2020-05-10 13:27:20] [core.cpp:413] compiler finished
+TRACE [2020-05-10 13:27:20] [core.cpp:417] compile succeeded.
+TRACE [2020-05-10 13:27:20] [core.cpp:460] Start Judging.
+TRACE [2020-05-10 13:27:20] [core.cpp:161] Start to redirect the IO.
+TRACE [2020-05-10 13:27:20] [core.cpp:170] redirect io is OK.
+TRACE [2020-05-10 05:27:20] [logger.h:100] log_close
+TRACE [2020-05-10 13:27:20] [core.cpp:502] OK, normal quit. All is good.
+TRACE [2020-05-10 13:27:20] [core.cpp:55] The final result is Accepted 0 360 
+TRACE [2020-05-10 13:27:20] [logger.h:100] log_close
+NOTICE [2020-05-10 13:35:37] [logger.h:92] log_open
+TRACE [2020-05-10 13:35:37] [core.cpp:388]
+ [compiler] Start: gcc -o ./test/a.out ./test/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2020-05-10 13:35:37] [core.cpp:413] compiler finished
+TRACE [2020-05-10 13:35:37] [core.cpp:417] compile succeeded.
+TRACE [2020-05-10 13:35:37] [core.cpp:460] Start Judging.
+TRACE [2020-05-10 13:35:37] [core.cpp:161] Start to redirect the IO.
+TRACE [2020-05-10 13:35:37] [core.cpp:170] redirect io is OK.
+TRACE [2020-05-10 05:35:37] [logger.h:100] log_close
+TRACE [2020-05-10 13:35:37] [core.cpp:502] OK, normal quit. All is good.
+TRACE [2020-05-10 13:35:37] [core.cpp:55] The final result is Accepted 0 356 
+TRACE [2020-05-10 13:35:37] [logger.h:100] log_close
