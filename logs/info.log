@@ -30,3 +30,8 @@ running the command: ./Core -c ./test/test.c -t 1000 -m 65535  -d ./test
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 running the command: ./Core -c ./test/test.c -t 1000 -m 65535  -d ./test
 127.0.0.1 - - [10/May/2020 13:35:37] "[37mGET /judge?src=./test/test.c&time=1000&mem=65535&dist=./test HTTP/1.1[0m" 200 -
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+running the command: ./Core -c ./test/test.c -t 1000 -m 65535  -d ./test
+127.0.0.1 - - [11/May/2020 21:18:52] "[37mGET /judge?src=./test/test.c&time=1000&mem=65535&dist=./test HTTP/1.1[0m" 200 -
+127.0.0.1 - - [11/May/2020 21:18:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
