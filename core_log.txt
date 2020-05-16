@@ -211,3 +211,15 @@ TRACE [2020-05-11 13:18:52] [logger.h:100] log_close
 TRACE [2020-05-11 21:18:52] [core.cpp:502] OK, normal quit. All is good.
 TRACE [2020-05-11 21:18:52] [core.cpp:55] The final result is Accepted 0 364 
 TRACE [2020-05-11 21:18:52] [logger.h:100] log_close
+NOTICE [2020-05-16 17:46:45] [logger.h:92] log_open
+TRACE [2020-05-16 17:46:45] [core.cpp:388]
+ [compiler] Start: gcc -o ./test/a.out ./test/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2020-05-16 17:46:45] [core.cpp:413] compiler finished
+TRACE [2020-05-16 17:46:45] [core.cpp:417] compile succeeded.
+TRACE [2020-05-16 17:46:45] [core.cpp:460] Start Judging.
+TRACE [2020-05-16 17:46:45] [core.cpp:161] Start to redirect the IO.
+TRACE [2020-05-16 17:46:45] [core.cpp:170] redirect io is OK.
+TRACE [2020-05-16 09:46:45] [logger.h:100] log_close
+TRACE [2020-05-16 17:46:45] [core.cpp:502] OK, normal quit. All is good.
+TRACE [2020-05-16 17:46:45] [core.cpp:55] The final result is Accepted 0 356 
+TRACE [2020-05-16 17:46:45] [logger.h:100] log_close
